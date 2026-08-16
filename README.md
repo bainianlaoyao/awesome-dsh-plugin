@@ -784,7 +784,7 @@ dsh plugin --profile web add dshmarket
 
 ### Development & Runtime
 
-- [bainianlaoyao/windows-bash](https://github.com/bainianlaoyao/windows-bash) - Makes Git Bash the only terminal tool for DeepSeek Harness on Windows: enables the bash executor and tool, disables PowerShell everywhere, and ships standard/code/cordis bash-only agent presets with the full-access sandbox defaults Git Bash's cygwin runtime needs.
+- [bainianlaoyao/bash-on-windows](https://github.com/bainianlaoyao/bash-on-windows) - On Windows, the available bash tool is limited to Git Bash and PowerShell is disabled.
 
 - [litestartup-com/dsh-api-gateway](https://github.com/litestartup-com/dsh-api-gateway) - REST + SSE gateway exposing running Harness sessions to third-party clients: API-key auth, token streaming, workspace grouping, and adopting GUI sessions to keep chatting.
 - [534119219/chicheng-gate](https://github.com/534119219/chicheng-gate) - LAN / remote-access control, frpc NAT tunneling, a panel password gate, and mobile UI adaptation for the DSH Web GUI.
